@@ -52,16 +52,18 @@ This lab focused on installing Grafana on an Ubuntu server, connecting it to Azu
 > 📸 Include screenshots in a `screenshots/` folder in your repo, and reference them like this:
 
 - **Grafana Service Running**  
-  ![Grafana Running](./screenshots/ss1.png)
+  ![Grafana Running](./ss1.png)
 
 - **Azure Role Assignments**  
-  ![Azure Role Assignment](./screenshots/ss2.png)
+  ![Azure Role Assignment](./ss2.png)
 
 - **Azure Monitor Data Source Setup**  
-  ![Data Source](./screenshots/ss3.png)
+  ![Data Source](./ss3.png)
 
 - **Final Grafana Dashboard**  
-  ![Dashboard](./screenshots/ss4.png)
+  ![Dashboard](./ss4.png)
+
+  ![Dashboard](./ss5.png)
 
 ---
 
